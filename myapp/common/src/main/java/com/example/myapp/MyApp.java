@@ -24,8 +24,6 @@ public class MyApp extends Lifecycle {
 		hi.add(fieldArea);
 		hi.setFocusable(false);
         hi.show();   	
-        
-        hi.add(new TextField("prtova"));
     }
     
 }
